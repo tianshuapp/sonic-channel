@@ -7,8 +7,8 @@ categories = ["api-bindings"]
 keywords = ["sonic", "search", "client", "elasticsearch", "api"]
 edition = "2021"
 license = "MPL-2.0"
-repository = "https://github.com/tianshuapp/sonic-channe"
-homepage = "https://github.com/tianshuapp/sonic-channe"
+repository = "https://github.com/tianshuapp/sonic-channel"
+homepage = "https://github.com/tianshuapp/sonic-channel"
 documentation = "https://docs.rs/sonic-channel2"
 readme = "README.md"
 
