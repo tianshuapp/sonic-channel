@@ -1,15 +1,15 @@
 [package]
-name = "sonic-channel"
-version = "1.1.0"
+name = "sonic-channel2"
+version = "1.1.1"
 authors = ["Dmitriy Pleshevskiy <dmitriy@ideascup.me>"]
 description = "Rust client for sonic search backend"
 categories = ["api-bindings"]
 keywords = ["sonic", "search", "client", "elasticsearch", "api"]
 edition = "2021"
 license = "MPL-2.0"
-repository = "https://github.com/pleshevskiy/sonic-channel"
-homepage = "https://github.com/pleshevskiy/sonic-channel"
-documentation = "https://docs.rs/sonic-channel"
+repository = "https://github.com/tianshuapp/sonic-channe"
+homepage = "https://github.com/tianshuapp/sonic-channe"
+documentation = "https://docs.rs/sonic-channel2"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
