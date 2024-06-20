@@ -150,6 +150,7 @@ impl Protocol {
             Some("OK") => Ok(Response::Ok),
             Some("ENDED") => Ok(Response::Ended),
             Some("CONNECTED") => Ok(Response::Connected),
+            Some("PONG") => Ok(Response::Pong),
             Some("ERR") => match segments.next() {
                 Some(message) => Err(Error::SonicServer(String::from(message))),
                 _ => Err(Error::WrongResponse),
